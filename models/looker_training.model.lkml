@@ -5,6 +5,8 @@ datagroup: default_datagroup {
   max_cache_age: "1 hour"
 }
 
+######## Training comments for Looker setup
+
 persist_with: default_datagroup
 
 explore: fruit_basket {
