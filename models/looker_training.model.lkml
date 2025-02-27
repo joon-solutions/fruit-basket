@@ -7,6 +7,8 @@ datagroup: default_datagroup {
 
 ######## Training comments for Looker setup
 
+######## Adding comments to demo webhooks
+
 persist_with: default_datagroup
 
 explore: fruit_basket {
