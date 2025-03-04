@@ -143,7 +143,7 @@ dimension: fruit_type {
   }
 
   dimension: price {
-    type: string
+    type: number
     value_format: "$0.00"
     sql: ${TABLE}.price ;;
   }
